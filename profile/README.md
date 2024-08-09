@@ -16,3 +16,6 @@ For more information on Granite models:
 * [GitHub](https://github.com/ibm-granite)
 * [Hugging Face](https://huggingface.co/ibm-granite)
 
+## Members
+
+Members of this org are required to have 2FA enabled.

@@ -1,4 +1,4 @@
-# About Granite Cookbooks
+# IBM Granite Community
 
 Welcome to the IBM Granite Community for IBM's [Granite Model Family](https://www.ibm.com/granite).
 

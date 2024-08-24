@@ -4,7 +4,7 @@ Welcome to the Community Hub for building with IBM's [Granite Model Family](http
 
 The Granite family of foundation models span an increasing variety of modalities, including language, code, time series, and science (e.g., materials) - with much more to come. We're building them with transparency and with focus on fulfilling rigorous enterprise requirements that are emerging for AI. If you'd like to learn more about the models themselves and how we build them, check out [Granite Models](https://github.com/ibm-granite).
 
-**The mission of this organization is to work collaboratively across industries and geographies to leverage Granite to solve problems and bring value across use cases, from code generation and modernization, to forecasting and predictive maintenance, to materials discovery.**
+**The mission of the Granite Community organization is to work collaboratively across industries and geographies to leverage Granite to solve problems and bring value across use cases, from code generation and modernization, to forecasting and predictive maintenance, to materials discovery.**
 
 Our first goal is to build out a communtiy kitchen for Granite, starting with cookbooks that have proven recipes to help enrich, adapt, and apply Granite models to real world applications.
 

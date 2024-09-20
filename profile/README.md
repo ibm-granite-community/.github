@@ -8,6 +8,8 @@ The Granite family of foundation models span an increasing variety of modalities
 
 Our first goal is to build out a communtiy kitchen for Granite, starting with cookbooks that have proven recipes to help enrich, adapt, and apply Granite models to real world applications.
 
+## Granite Cookbooks
+
 The _Granite Cookbooks_ provide open-source recipes for using these models in various practical scenarios. 
 
 * [Granite Code Cookbook](https://github.com/ibm-granite-community/granite-code-cookbook)

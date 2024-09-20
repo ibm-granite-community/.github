@@ -10,10 +10,10 @@ Our first goal is to build out a communtiy kitchen for Granite, starting with co
 
 The _Granite Cookbooks_ provide open-source recipes for using these models in various practical scenarios. 
 
-* [`granite-code-cookbook`](https://github.com/ibm-granite-community/granite-code-cookbook) focuses on the [Granite Code models](https://huggingface.co/collections/ibm-granite/granite-code-models-6624c5cec322e4c148c8b330)
-* [`granite-timeseries-cookbook`](https://github.com/ibm-granite-community/granite-timeseries-cookbook)
-
-Other cookbooks are planned for materials and language.
+* [Granite Code Cookbook](https://github.com/ibm-granite-community/granite-code-cookbook)
+* [Granite Time Series Cookbook](https://github.com/ibm-granite-community/granite-timeseries-cookbook)
+* [Granite Finance Cookbook](https://github.com/ibm-granite-community/granite-finance-cookbook)
+* [Granite Legal Cookbook](https://github.com/ibm-granite-community/granite-legal-cookbook)
 
 For more information on Granite models:
 

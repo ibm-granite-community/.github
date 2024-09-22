@@ -23,6 +23,11 @@ For more information on Granite models:
 * [GitHub](https://github.com/ibm-granite)
 * [Hugging Face](https://huggingface.co/ibm-granite)
 
+## Other Resources
+
+* [Granite Community Wiki](https://github.com/ibm-granite-community/community/wiki)
+* [Granite Community Discord Server](https://discord.gg/GgDyu9jBKw)
+
 ## Members
 
 Members of this org are required to have 2FA enabled.

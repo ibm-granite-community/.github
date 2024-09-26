@@ -10,7 +10,13 @@ Our first goal is to build out a communtiy kitchen for Granite, starting with co
 
 ## Granite Cookbooks
 
-The _Granite Cookbooks_ provide open-source, domain-specific recipes for using these models:
+The best place to get a quick overview of Granite models in action is the "Snack" cookbook.
+This is where the equivalent of "Hello, World!" recipes are published.
+They run quickly on small datasets and demonstrate key principles.
+
+* [Granite Snack Cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook)
+
+Theh following _Granite Cookbooks_ provide domain-specific recipes for using the Granite models:
 
 * [Granite Code Cookbook](https://github.com/ibm-granite-community/granite-code-cookbook)
 * [Granite Finance Cookbook](https://github.com/ibm-granite-community/granite-finance-cookbook)

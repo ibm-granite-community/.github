@@ -10,23 +10,15 @@ Our first goal is to build out a communtiy kitchen for Granite, starting with co
 
 ## Granite Cookbooks
 
-The best place to get a quick overview of Granite models in action is the "Snack" cookbook.
-This is where the equivalent of "Hello, World!" recipes are published.
-They run quickly on small datasets and demonstrate key principles.
+Theh following _Granite Cookbooks_ provide open source recipes for using the Granite models:
 
-* [Granite Snack Cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook)
-
-Theh following _Granite Cookbooks_ provide domain-specific recipes for using the Granite models:
-
+* [Granite Snack Cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook) has introductory "Hello, World!" recipes that run quickly on small datasets.
 * [Granite Code Cookbook](https://github.com/ibm-granite-community/granite-code-cookbook)
 * [Granite Finance Cookbook](https://github.com/ibm-granite-community/granite-finance-cookbook)
 * [Granite Legal Cookbook](https://github.com/ibm-granite-community/granite-legal-cookbook)
-
-The Granie Time Series Cookbook provides recipes specific to the Granite Time Series models.
-
 * [Granite Time Series Cookbook](https://github.com/ibm-granite-community/granite-timeseries-cookbook)
 
-A `utils` repo (the Granite "Kitchen") provides information on connecting using Granite on several platforms, finding compatible vector databases, and some utilities for notebook environments.
+The Granite "Kitchen" provides information on connecting using Granite on several platforms, finding compatible vector databases, and some utilities for notebook environments.
 
 * [Granite Kitchen](https://github.com/ibm-granite-community/utils)
 

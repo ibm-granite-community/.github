@@ -20,7 +20,7 @@ Theh following _Granite Cookbooks_ provide open source recipes for using the Gra
 
 The Granite "Kitchen" provides information on connecting using Granite on several platforms, finding compatible vector databases, and some utilities for notebook environments.
 
-* [Granite Kitchen](https://github.com/ibm-granite-community/utils)
+* [Granite Kitchen](https://github.com/ibm-granite-community/granite-kitchen)
 
 ## Granite Community
 

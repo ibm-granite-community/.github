@@ -10,7 +10,7 @@ Our first goal is to build out a community kitchen for Granite, starting with co
 
 ## Granite Cookbooks
 
-Theh following _Granite Cookbooks_ provide open source recipes for using the Granite models:
+The following _Granite Cookbooks_ provide open source recipes for using the Granite models:
 
 * [Granite Snack Cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook) has introductory "Hello, World!" recipes that run quickly on small datasets.
 * [Granite Code Cookbook](https://github.com/ibm-granite-community/granite-code-cookbook)

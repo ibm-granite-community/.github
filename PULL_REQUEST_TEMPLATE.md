@@ -9,9 +9,8 @@
     - [ ] Colab has its own package set and Python version, so ensure compatibility.
 - [ ] **Test locally**:
     - [ ] Ensure the code works in a fresh Python virtual environment (venv).
-- [ ] **Flexible LLM platform support**:
-    - [ ] The platform should be easily switchable. Use LangChain for now.
-    - [ ] Include `!pip install git+https://github.com/ibm-granite-community/utils` in the instructions.
+- [ ] **Standard access to secrets and variables** Include `!pip install git+https://github.com/ibm-granite-community/utils` in the first code cell in order to make `get_env_var` available to accessing secrets and variables in the recipe.
+- [ ] **Flexible LLM platform support** The platform should be easily switchable. Use LangChain or LlamaIndex.
 - [ ] **Example data**: Follow the example data guidance.
 - [ ] **README.md updates**:
     - [ ] Add a link to the recipe in the Table of Contents (ToC).

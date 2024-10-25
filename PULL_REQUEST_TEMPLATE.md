@@ -11,7 +11,7 @@
     - [ ] Ensure the code works in a fresh Python virtual environment (venv).
 - [ ] **Flexible LLM platform support**:
     - [ ] The platform should be easily switchable. Use LangChain for now.
-    - [ ] Include `!pip install git+https://github.com/ibm-granite-community/granite-kitchen` in the instructions.
+    - [ ] Include `!pip install git+https://github.com/ibm-granite-community/utils` in the instructions.
 - [ ] **Example data**: Follow the example data guidance.
 - [ ] **README.md updates**:
     - [ ] Add a link to the recipe in the Table of Contents (ToC).

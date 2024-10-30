@@ -3,7 +3,7 @@
 - [ ] **Commits signed**: All commits must be GPG or SSH signed.
 - [ ] **DCO Compliance**: Developer Certificate of Origin (DCO) applies to the code, documentation, and any example data provided. Ensure commits are signed off.
 - [ ] **Notebook outputs cleared**: Ensure all notebook outputs are cleared.
-- [ ] **Automated testing**: Add the recipe to the automated tests.
+- [ ] **Automated testing**: Add the recipe to the automated tests as described [here](https://github.com/ibm-granite-community/community/wiki/Automated-Validation)
 - [ ] **Test in Google Colab**:
     - [ ] Test that it works in Google Colab (Python 3.10.12).
     - [ ] Colab has its own package set and Python version, so ensure compatibility.

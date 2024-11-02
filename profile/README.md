@@ -1,6 +1,6 @@
-# IBM Granite Community
+# Cooking with Granite
 
-Welcome to the Community Hub for building with IBM's [Granite Model Family](https://www.ibm.com/granite).
+Welcome to Cooking with Granite: a community hub for building with IBM's [Granite Model Family](https://www.ibm.com/granite) and a project of [The AI Alliance](https://thealliance.ai/).
 
 ## Granite Cookbooks
 

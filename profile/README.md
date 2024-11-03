@@ -18,7 +18,7 @@ The _Granite Kitchen_ provides information on using Granite on several hosting p
 
 * [Granite Kitchen](https://github.com/ibm-granite-community/granite-kitchen)
 
-## Granite Community
+## Cooking with Granite Community
 
 * [Granite Community Wiki](https://github.com/ibm-granite-community/community/wiki)
 * [Granite Community Discord Server](https://discord.gg/GgDyu9jBKw)

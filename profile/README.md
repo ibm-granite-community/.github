@@ -35,9 +35,10 @@ Our first goal is to build out a community kitchen for Granite, starting with co
 
 For more information on Granite models:
 
-* [IBM Website](https://www.ibm.com/granite)
-* [GitHub](https://github.com/ibm-granite)
-* [Hugging Face](https://huggingface.co/ibm-granite)
+* [IBM Website for Granite](https://www.ibm.com/granite): More information about the Granite family of models.
+* [Granite Playground](https://www.ibm.com/granite/playground/): A set of &ldquo;no-code&rdquo; example uses of Granite models.
+* [GitHub](https://github.com/ibm-granite): The GitHub repository with miscellaneous information and tools for the Granite models themselves.
+* [Hugging Face](https://huggingface.co/ibm-granite): The Granite organization in Hugging Face. You can download any of the Granite models there.
 
 ## IBM Public Repository Disclosure 
 

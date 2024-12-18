@@ -14,9 +14,15 @@ The following _Granite Cookbooks_ provide open source recipes for using the Gran
 * [Granite Legal Cookbook](https://github.com/ibm-granite-community/granite-legal-cookbook)
 * [Granite Time Series Cookbook](https://github.com/ibm-granite-community/granite-timeseries-cookbook)
 
-The _Granite Kitchen_ provides information on using Granite on several hosting platforms, finding compatible vector databases, and some utilities for notebook environments.
+The _Granite Kitchen_ provides information on using Granite on several hosting platforms and finding compatible vector databases.
 
 * [Granite Kitchen](https://github.com/ibm-granite-community/granite-kitchen)
+
+## Granite Prepared Meals
+
+The following _Prepared Meals_ provide open source solutions designed to integrate into existing frameworks and run out-of-the-box.
+
+* [Granite Retrieval Agent](https://github.com/ibm-granite-community/granite-retrieval-agent)
 
 ## Cooking with Granite Community
 
@@ -40,6 +46,6 @@ For more information on Granite models:
 * [GitHub](https://github.com/ibm-granite): The GitHub repository with miscellaneous information and tools for the Granite models themselves.
 * [Hugging Face](https://huggingface.co/ibm-granite): The Granite organization in Hugging Face. You can download any of the Granite models there.
 
-## IBM Public Repository Disclosure 
+## IBM Public Repository Disclosure
 
 All content in these repositories including code has been provided by IBM under the associated open source software license and IBM is under no obligation to provide enhancements, updates, or support. IBM developers produced this code as an open source project (not as an IBM product), and IBM makes no assertions as to the level of quality nor security, and will not be maintaining this code going forward.

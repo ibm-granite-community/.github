@@ -14,6 +14,11 @@ The following _Granite Cookbooks_ provide open source recipes for using the Gran
 * [Granite Legal Cookbook](https://github.com/ibm-granite-community/granite-legal-cookbook)
 * [Granite Time Series Cookbook](https://github.com/ibm-granite-community/granite-timeseries-cookbook)
 
+
+The following _Prepared Meals_ provide open source solutions designed to integrate into existing frameworks and run out-of-the-box.
+
+* [Granite Retrieval Agent](https://github.com/ibm-granite-community/granite-retrieval-agent)
+
 The _Granite Kitchen_ provides information on using Granite on several hosting platforms, finding compatible vector databases, and some utilities for notebook environments.
 
 * [Granite Kitchen](https://github.com/ibm-granite-community/granite-kitchen)

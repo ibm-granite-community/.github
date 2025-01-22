@@ -27,7 +27,6 @@ The following _Prepared Meals_ provide open source solutions designed to integra
 ## Cooking with Granite Community
 
 * [Granite Community Wiki](https://github.com/ibm-granite-community/community/wiki)
-* [Granite Community Discord Server](https://discord.gg/GgDyu9jBKw)
 
 ## About
 

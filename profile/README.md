@@ -22,7 +22,7 @@ The _Granite Kitchen_ provides information on using Granite on several hosting p
 
 The following _Prepared Meals_ provide open source solutions designed to integrate into existing frameworks and run out-of-the-box.
 
-* [Granite Retrieval Agent](https://github.com/ibm-granite-community/granite-retrieval-agent)
+* [Granite Retrieval Agent](https://github.com/ibm-granite-community/granite-retrieval-agent) contains several Agentic RAG implementations that can plug into Open WebUI.
 
 ## Cooking with Granite Community
 

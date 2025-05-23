@@ -3,7 +3,6 @@
 Welcome to Cooking with Granite: a community hub for building with IBM's [Granite Model Family](https://www.ibm.com/granite) and a project of [The AI Alliance](https://thealliance.ai/).
 For a overview of Granite in PDF form, please also see the [Granite Technical Guide](https://github.com/ibm-granite-community/documentation/blob/main/IBM%20Granite%20Technical%20Guide.pdf).
 
-
 Come check out our cookbooks and our kitchen, and you'll be cooking with Granite in no time!
 
 ## Granite Cookbooks

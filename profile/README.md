@@ -6,12 +6,12 @@ Come check out our cookbooks and our kitchen, and you'll be cooking with Granite
 
 > [!IMPORTANT]
 
-#### Popular getting started materials:
+#### Popular getting started materials
 
 * [Granite Snack Cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook): introductory "Hello, World!" recipes that run quickly on small datasets.
 * [Granite Code Cookbook](https://github.com/ibm-granite-community/granite-code-cookbook): showcasing the capabilities of the IBM Granite Code models.
 
-#### Basic Capabilities: 
+#### Basic Capabilities
 
 1. [Document Summarization](/recipes/Summarize/Summarize.ipynb)
    <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/Summarize/Summarize.ipynb">
@@ -32,7 +32,7 @@ Come check out our cookbooks and our kitchen, and you'll be cooking with Granite
 
 > [!IMPORTANT]
 
-#### Popular learning materials:
+#### Popular learning materials
 
 * [Granite Kitchen](https://github.com/ibm-granite-community/granite-kitchen): The example notebooks in the Granite Kitchen cover the initial decisions and setup needed to get started using Granite models.
 * [IBM Granite Time Series Cookbook](https://github.com/ibm-granite-community/granite-timeseries-cookbook): Learn how to leverage  compact pre-trained models for Multivariate Time-Series Forecasting.
@@ -50,6 +50,7 @@ Come check out our cookbooks and our kitchen, and you'll be cooking with Granite
 > [!TIP]
 
 #### Documentation Links
+
 * [Granite Documentation](https://www.ibm.com/granite/docs/models/granite/)
 * [Responsible Use Guide](https://www.ibm.com/granite/docs/resources/responsible-use-guide.pdf)
 * [Granite Technical Guide](https://github.com/ibm-granite-community/documentation/blob/main/IBM%20Granite%20Technical%20Guide.pdf): Overview of Granite in PDF form.
@@ -75,7 +76,7 @@ For more information on Granite models:
 
 ## Contributing
 
-For information about contributing to this repo, code of conduct guidelines, etc., see the community [CONTRIBUTING][CG] and [Code of Conduct][CoC] guides.  All commits require DCO-signoff (discussed [here][CG-legal]) _and_ GPG or SSH signing (discussed [here][CG-signing]).  The GitHub recommended code security settings are enforced on this public repository (which include the signing requirement).
+For information about contributing to this repo, code of conduct guidelines, etc., see the community [CONTRIBUTING](https://github.com/ibm-granite-community/community/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/ibm-granite-community/community/blob/main/CODE_OF_CONDUCT.md) guides.  All commits require DCO-signoff (discussed [here](https://github.com/ibm-granite-community/community/blob/main/CONTRIBUTING.md#developer-certificate-of-origin-1)) _and_ GPG or SSH signing (discussed [here](https://github.com/ibm-granite-community/community/blob/main/CONTRIBUTING.md#signing-commits)).  The GitHub recommended code security settings are enforced on this public repository (which include the signing requirement).
 
 For more background and a FAQ, please see the [community wiki](https://github.com/ibm-granite-community/community/wiki)
 

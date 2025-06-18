@@ -1,8 +1,6 @@
 # Cooking with Granite
 
 Welcome to the official repository with everything you need to get started with Granite. This is a community hub for building with IBM's [Granite Model Family](https://www.ibm.com/granite) and a project of [The AI Alliance](https://thealliance.ai/).
-For a overview of Granite in PDF form, please also see the [Granite Technical Guide](https://github.com/ibm-granite-community/documentation/blob/main/IBM%20Granite%20Technical%20Guide.pdf).
-
 
 Come check out our cookbooks and our kitchen, and you'll be cooking with Granite in no time!
 
@@ -34,17 +32,27 @@ Come check out our cookbooks and our kitchen, and you'll be cooking with Granite
 
 > [!IMPORTANT]
 
-#### Popular end-to-end recipes:
+#### Popular learning materials:
 
-The _Granite Kitchen_ provides information on using Granite on several hosting platforms and finding compatible vector databases.
+* [Granite Kitchen](https://github.com/ibm-granite-community/granite-kitchen): The example notebooks in the Granite Kitchen cover the initial decisions and setup needed to get started using Granite models.
+* [IBM Granite Time Series Cookbook](https://github.com/ibm-granite-community/granite-timeseries-cookbook): Learn how to leverage  compact pre-trained models for Multivariate Time-Series Forecasting.
+* [Granite retrieval and image research agents](https://github.com/ibm-granite-community/granite-retrieval-agent): This agent leverages the Granite 3.2 language model and Granite 3.2 vision to analyze images.
+* [Retrieval Augmented Generation (RAG) with Langchain](/recipes/RAG/RAG_with_Langchain.ipynb)
+   <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/RAG/RAG_with_Langchain.ipynb">
+   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+   </a>: This notebook contains instructions for performing Retrieval Augumented Generation (RAG) using IBM Granite models.
 
-* [Granite Kitchen](https://github.com/ibm-granite-community/granite-kitchen)
+#### Self-Paced workshops
+
+* [Granite Workshop](https://ibm.github.io/granite-workshop/): In this workshop we'll be using the open-sourced IBM Granite AI foundation models for a number of use cases that demonstrates the value of generative AI.
+* [Granite Timeseries Workshop](https://ibm-granite-community.github.io/granite-timeseries-workshop/): In this workshop we'll be using the open-sourced IBM Granite AI foundation models for a number of use cases that demonstrates the value of timeseries forecasting and generative AI.
 
 > [!TIP]
 
-#### Granite in the news and on the web:
-
-* [IBM Granite 4.0 Tiny Preview: A sneak peek at the next generation of Granite models](https://www.ibm.com/new/announcements/ibm-granite-4-0-tiny-preview-sneak-peek)
+#### Documentation Links
+* [Granite Documentation](https://www.ibm.com/granite/docs/models/granite/)
+* [Responsible Use Guide](https://www.ibm.com/granite/docs/resources/responsible-use-guide.pdf)
+* [Granite Technical Guide](https://github.com/ibm-granite-community/documentation/blob/main/IBM%20Granite%20Technical%20Guide.pdf): Overview of Granite in PDF form.
 
 ## About Granite
 
@@ -62,6 +70,8 @@ For more information on Granite models:
 * [Granite Playground](https://www.ibm.com/granite/playground/): A set of &ldquo;no-code&rdquo; example uses of Granite models.
 * [Granite on GitHub](https://github.com/ibm-granite): The GitHub repository with miscellaneous information and tools for the Granite models themselves.
 * [Granite on Hugging Face](https://huggingface.co/ibm-granite): The Granite organization in Hugging Face. You can download any of the Granite models there.
+* Connect with the [Granite Community on Discord](https://discord.com/invite/GgDyu9jBKw)!
+* Granite Community [Code of Conduct](https://github.com/ibm-granite-community/community/blob/main/CODE_OF_CONDUCT.md)
 
 ## Contributing
 

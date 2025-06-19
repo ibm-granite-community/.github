@@ -1,11 +1,10 @@
 Agentic
 Annunziata
-Augumented
 CDLA
 Colab
 DCO
 GPG
-Langchain
+LangChain
 LLM
 md
 Pingel

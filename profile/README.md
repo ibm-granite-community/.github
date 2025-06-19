@@ -5,8 +5,7 @@ Welcome to the official repository with everything you need to get started with 
 Come check out our cookbooks and our kitchen, and you'll be cooking with Granite in no time!
 
 > [!IMPORTANT]
-
-#### Popular getting started materials
+> Getting started materials
 
 * [Granite Snack Cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook): introductory "Hello, World!" recipes that run quickly on small datasets.
 * [Granite Code Cookbook](https://github.com/ibm-granite-community/granite-code-cookbook): showcasing the capabilities of the IBM Granite Code models.
@@ -30,9 +29,8 @@ Come check out our cookbooks and our kitchen, and you'll be cooking with Granite
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
    </a>
 
-> [!IMPORTANT]
-
-#### Popular learning materials
+> [!Tip]
+> Popular learning materials
 
 * [Granite Kitchen](https://github.com/ibm-granite-community/granite-kitchen): The example notebooks in the Granite Kitchen cover the initial decisions and setup needed to get started using Granite models.
 * [IBM Granite Time Series Cookbook](https://github.com/ibm-granite-community/granite-timeseries-cookbook): Learn how to leverage  compact pre-trained models for Multivariate Time-Series Forecasting.
@@ -47,9 +45,8 @@ Come check out our cookbooks and our kitchen, and you'll be cooking with Granite
 * [Granite Workshop](https://ibm.github.io/granite-workshop/): In this workshop we'll be using the open-sourced IBM Granite AI foundation models for a number of use cases that demonstrates the value of generative AI.
 * [Granite Timeseries Workshop](https://ibm-granite-community.github.io/granite-timeseries-workshop/): In this workshop we'll be using the open-sourced IBM Granite AI foundation models for a number of use cases that demonstrates the value of timeseries forecasting and generative AI.
 
-> [!TIP]
-
-#### Documentation Links
+> [!NOTE]
+> Documentation and Contributing
 
 * [Granite Documentation](https://www.ibm.com/granite/docs/models/granite/)
 * [Responsible Use Guide](https://www.ibm.com/granite/docs/resources/responsible-use-guide.pdf)

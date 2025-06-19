@@ -71,14 +71,14 @@ For more information on Granite models:
 * [Granite Playground](https://www.ibm.com/granite/playground/): A set of &ldquo;no-code&rdquo; example uses of Granite models.
 * [Granite on GitHub](https://github.com/ibm-granite): The GitHub repository with miscellaneous information and tools for the Granite models themselves.
 * [Granite on Hugging Face](https://huggingface.co/ibm-granite): The Granite organization in Hugging Face. You can download any of the Granite models there.
-* Connect with the [Granite Community on Discord](https://discord.com/invite/GgDyu9jBKw)!
-* Granite Community [Code of Conduct](https://github.com/ibm-granite-community/community/blob/main/CODE_OF_CONDUCT.md)
+* [Granite Community Discussions](https://github.com/orgs/ibm-granite-community/discussions)
+* Granite Community [Code of Conduct](https://github.com/ibm-granite-community/.github/blob/main/CODE_OF_CONDUCT.md)
 
 ## Contributing
 
-For information about contributing to this repo, code of conduct guidelines, etc., see the community [CONTRIBUTING](https://github.com/ibm-granite-community/community/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/ibm-granite-community/community/blob/main/CODE_OF_CONDUCT.md) guides.  All commits require DCO-signoff (discussed in the [developer certificate of origin](https://github.com/ibm-granite-community/community/blob/main/CONTRIBUTING.md#developer-certificate-of-origin-1)) section of our contributing documentation _and_ GPG or SSH signing (discussed in the [signing commits](https://github.com/ibm-granite-community/community/blob/main/CONTRIBUTING.md#signing-commits)) section of our contributing documentation. The GitHub recommended code security settings are enforced on this public repository (which include the signing requirement).
-
-For more background and a FAQ, please see the [community wiki](https://github.com/ibm-granite-community/community/wiki)
+For information about contributing to this repo, code of conduct guidelines, etc., see the community [CONTRIBUTING](https://github.com/ibm-granite-community/.github/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/ibm-granite-community/.github/blob/main/CODE_OF_CONDUCT.md) guides.
+All commits require DCO-signoff (discussed in the [developer certificate of origin](https://github.com/ibm-granite-community/.github/blob/main/CONTRIBUTING.md#developer-certificate-of-origin-1)) section of our contributing documentation _and_ GPG or SSH signing (discussed in the [signing commits](https://github.com/ibm-granite-community/.github/blob/main/CONTRIBUTING.md#signing-commits)) section of our contributing documentation.
+The GitHub recommended code security settings are enforced on this public repository (which include the signing requirement).
 
 ## Licenses
 

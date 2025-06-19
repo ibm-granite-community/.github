@@ -1,35 +1,61 @@
 # Cooking with Granite
 
-Welcome to Cooking with Granite: a community hub for building with IBM's [Granite Model Family](https://www.ibm.com/granite) and a project of [The AI Alliance](https://thealliance.ai/).
-For a overview of Granite in PDF form, please also see the [Granite Technical Guide](https://github.com/ibm-granite-community/documentation/blob/main/IBM%20Granite%20Technical%20Guide.pdf).
+Welcome to the official repository with everything you need to get started with Granite. This is a community hub for building with IBM's [Granite Model Family](https://www.ibm.com/granite) and a project of [The AI Alliance](https://thealliance.ai/).
 
 Come check out our cookbooks and our kitchen, and you'll be cooking with Granite in no time!
 
-## Granite Cookbooks
+> [!IMPORTANT]
 
-The following _Granite Cookbooks_ provide open source recipes for using the Granite models:
+#### Popular getting started materials
 
-* [Granite Snack Cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook) has introductory "Hello, World!" recipes that run quickly on small datasets.
-* [Granite Code Cookbook](https://github.com/ibm-granite-community/granite-code-cookbook)
-* [Granite Finance Cookbook](https://github.com/ibm-granite-community/granite-finance-cookbook)
-* [Granite Legal Cookbook](https://github.com/ibm-granite-community/granite-legal-cookbook)
-* [Granite Time Series Cookbook](https://github.com/ibm-granite-community/granite-timeseries-cookbook)
+* [Granite Snack Cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook): introductory "Hello, World!" recipes that run quickly on small datasets.
+* [Granite Code Cookbook](https://github.com/ibm-granite-community/granite-code-cookbook): showcasing the capabilities of the IBM Granite Code models.
 
-The _Granite Kitchen_ provides information on using Granite on several hosting platforms and finding compatible vector databases.
+#### Basic Capabilities
 
-* [Granite Kitchen](https://github.com/ibm-granite-community/granite-kitchen)
+1. [Document Summarization](/recipes/Summarize/Summarize.ipynb)
+   <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/Summarize/Summarize.ipynb">
+   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+   </a>
+1. [Entity Extraction](recipes/Entity-Extraction/entity_extraction.ipynb)
+   <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/Entity-Extraction/entity_extraction.ipynb">
+   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+   </a>
+1. [Function Calling](recipes/Function-Calling/Function_Calling.ipynb)
+   <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/Function-Calling/Function_Calling.ipynb">
+   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+   </a>
+1. [Contract Analysis](recipes/Contract-Analysis/Granite_Recipes_Contracts_Analysis.ipynb)
+   <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/Contract-Analysis/Granite_Recipes_Contracts_Analysis.ipynb">
+   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+   </a>
 
-## Granite Prepared Meals
+> [!IMPORTANT]
 
-The following _Prepared Meals_ provide open source solutions designed to integrate into existing frameworks and run out-of-the-box.
+#### Popular learning materials
 
-* [Granite Retrieval Agent](https://github.com/ibm-granite-community/granite-retrieval-agent) contains several Agentic RAG implementations that can plug into Open WebUI.
+* [Granite Kitchen](https://github.com/ibm-granite-community/granite-kitchen): The example notebooks in the Granite Kitchen cover the initial decisions and setup needed to get started using Granite models.
+* [IBM Granite Time Series Cookbook](https://github.com/ibm-granite-community/granite-timeseries-cookbook): Learn how to leverage  compact pre-trained models for Multivariate Time-Series Forecasting.
+* [Granite retrieval and image research agents](https://github.com/ibm-granite-community/granite-retrieval-agent): This agent leverages the Granite 3.2 language model and Granite 3.2 vision to analyze images.
+* [Retrieval Augmented Generation (RAG) with LangChain](/recipes/RAG/RAG_with_Langchain.ipynb)
+   <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/RAG/RAG_with_Langchain.ipynb">
+   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+   </a>: This notebook contains instructions for performing Retrieval Augmented Generation (RAG) using IBM Granite models.
 
-## Cooking with Granite Community
+#### Self-Paced workshops
 
-* [Granite Community Discussions](https://github.com/orgs/ibm-granite-community/discussions)
+* [Granite Workshop](https://ibm.github.io/granite-workshop/): In this workshop we'll be using the open-sourced IBM Granite AI foundation models for a number of use cases that demonstrates the value of generative AI.
+* [Granite Timeseries Workshop](https://ibm-granite-community.github.io/granite-timeseries-workshop/): In this workshop we'll be using the open-sourced IBM Granite AI foundation models for a number of use cases that demonstrates the value of timeseries forecasting and generative AI.
 
-## About
+> [!TIP]
+
+#### Documentation Links
+
+* [Granite Documentation](https://www.ibm.com/granite/docs/models/granite/)
+* [Responsible Use Guide](https://www.ibm.com/granite/docs/resources/responsible-use-guide.pdf)
+* [Granite Technical Guide](https://github.com/ibm-granite-community/documentation/blob/main/IBM%20Granite%20Technical%20Guide.pdf): Overview of Granite in PDF form.
+
+## About Granite
 
 The Granite family of foundation models span an increasing variety of modalities, including language, code, time series, and science (e.g., materials) - with much more to come. We're building them with transparency and with focus on fulfilling rigorous enterprise requirements that are emerging for AI. If you'd like to learn more about the models themselves and how we build them, check out [Granite Models](https://github.com/ibm-granite).
 
@@ -43,8 +69,22 @@ For more information on Granite models:
 
 * [IBM Website for Granite](https://www.ibm.com/granite): More information about the Granite family of models.
 * [Granite Playground](https://www.ibm.com/granite/playground/): A set of &ldquo;no-code&rdquo; example uses of Granite models.
-* [GitHub](https://github.com/ibm-granite): The GitHub repository with miscellaneous information and tools for the Granite models themselves.
-* [Hugging Face](https://huggingface.co/ibm-granite): The Granite organization in Hugging Face. You can download any of the Granite models there.
+* [Granite on GitHub](https://github.com/ibm-granite): The GitHub repository with miscellaneous information and tools for the Granite models themselves.
+* [Granite on Hugging Face](https://huggingface.co/ibm-granite): The Granite organization in Hugging Face. You can download any of the Granite models there.
+* [Granite Community Discussions](https://github.com/orgs/ibm-granite-community/discussions)
+* Granite Community [Code of Conduct](https://github.com/ibm-granite-community/.github/blob/main/CODE_OF_CONDUCT.md)
+
+## Contributing
+
+For information about contributing to this repo, code of conduct guidelines, etc., see the community [CONTRIBUTING](https://github.com/ibm-granite-community/.github/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/ibm-granite-community/.github/blob/main/CODE_OF_CONDUCT.md) guides.
+All commits require DCO-signoff (discussed in the [developer certificate of origin](https://github.com/ibm-granite-community/.github/blob/main/CONTRIBUTING.md#developer-certificate-of-origin-1)) section of our contributing documentation _and_ GPG or SSH signing (discussed in the [signing commits](https://github.com/ibm-granite-community/.github/blob/main/CONTRIBUTING.md#signing-commits)) section of our contributing documentation.
+The GitHub recommended code security settings are enforced on this public repository (which include the signing requirement).
+
+## Licenses
+
+Code in repos across this organization, including in notebook cells, is licensed under Apache 2.0.
+
+Any example datasets committed to this repository are licensed under CDLA Permissive 2.0.
 
 ## IBM Public Repository Disclosure
 

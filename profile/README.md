@@ -8,23 +8,24 @@ Come check out our cookbooks and our kitchen, and you'll be cooking with Granite
 > Getting started materials
 
 * [Granite Snack Cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook): introductory "Hello, World!" recipes that run quickly on small datasets.
+* [Granite Agent Cookbook](https://github.com/ibm-granite-community/granite-agent-cookbook): showcases the [agentic capabilities](https://github.com/ibm-granite-community/granite-agent-cookbook/blob/main/building_agents.md) of IBM Granite models, in bite-sized instructional notebooks.
 * [Granite Code Cookbook](https://github.com/ibm-granite-community/granite-code-cookbook): showcasing the capabilities of the IBM Granite Code models.
 
 #### Basic Capabilities
 
-1. [Document Summarization](/recipes/Summarize/Summarize.ipynb)
+1. [Document Summarization](https://github.com/ibm-granite-community/granite-snack-cookbook/recipes/Summarize/Summarize.ipynb)
    <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/Summarize/Summarize.ipynb">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
    </a>
-1. [Entity Extraction](recipes/Entity-Extraction/entity_extraction.ipynb)
+1. [Entity Extraction](https://github.com/ibm-granite-community/granite-snack-cookbook/recipes/Entity-Extraction/entity_extraction.ipynb)
    <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/Entity-Extraction/entity_extraction.ipynb">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
    </a>
-1. [Function Calling](recipes/Function-Calling/Function_Calling.ipynb)
-   <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/Function-Calling/Function_Calling.ipynb">
+1. [Function Calling Agent](https://github.com/ibm-granite-community/granite-agent-cookbook/blob/main/recipes/Function_Calling/Function_Calling_Agent.ipynb)
+   <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/granite-agent-cookbook/blob/main/recipes/Function_Calling/Function_Calling_Agent.ipynb">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
    </a>
-1. [Contract Analysis](recipes/Contract-Analysis/Granite_Recipes_Contracts_Analysis.ipynb)
+1. [Contract Analysis](https://github.com/ibm-granite-community/granite-snack-cookbook/recipes/Contract-Analysis/Granite_Recipes_Contracts_Analysis.ipynb)
    <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/Contract-Analysis/Granite_Recipes_Contracts_Analysis.ipynb">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
    </a>
@@ -35,7 +36,7 @@ Come check out our cookbooks and our kitchen, and you'll be cooking with Granite
 * [Granite Kitchen](https://github.com/ibm-granite-community/granite-kitchen): The example notebooks in the Granite Kitchen cover the initial decisions and setup needed to get started using Granite models.
 * [IBM Granite Time Series Cookbook](https://github.com/ibm-granite-community/granite-timeseries-cookbook): Learn how to leverage  compact pre-trained models for Multivariate Time-Series Forecasting.
 * [Granite retrieval and image research agents](https://github.com/ibm-granite-community/granite-retrieval-agent): This agent leverages the Granite 3.2 language model and Granite 3.2 vision to analyze images.
-* [Retrieval Augmented Generation (RAG) with LangChain](/recipes/RAG/RAG_with_Langchain.ipynb)
+* [Retrieval Augmented Generation (RAG) with LangChain](https://github.com/ibm-granite-community/granite-snack-cookbook/recipes/RAG/RAG_with_Langchain.ipynb)
    <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/RAG/RAG_with_Langchain.ipynb">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
    </a>: This notebook contains instructions for performing Retrieval Augmented Generation (RAG) using IBM Granite models.
@@ -43,6 +44,7 @@ Come check out our cookbooks and our kitchen, and you'll be cooking with Granite
 #### Self-Paced workshops
 
 * [Granite Workshop](https://ibm.github.io/granite-workshop/): In this workshop we'll be using the open-sourced IBM Granite AI foundation models for a number of use cases that demonstrates the value of generative AI.
+* [Docling Workshop](https://ibm-granite-community.github.io/docling-workshop/): In this workshop we'll be walking through the features of [Docling](https://docling-project.github.io/docling/). Docling simplifies document processing, parsing diverse formats, including advanced PDF understanding, and providing seamless integrations with the generative AI ecosystem.
 * [Granite Timeseries Workshop](https://ibm-granite-community.github.io/granite-timeseries-workshop/): In this workshop we'll be using the open-sourced IBM Granite AI foundation models for a number of use cases that demonstrates the value of timeseries forecasting and generative AI.
 
 > [!NOTE]
@@ -79,7 +81,7 @@ The GitHub recommended code security settings are enforced on this public reposi
 
 ## Licenses
 
-Code in repos across this organization, including in notebook cells, is licensed under Apache 2.0.
+Code in cookbook repos across this organization, including in notebook cells, is licensed under Apache 2.0.
 
 Any example datasets committed to this repository are licensed under CDLA Permissive 2.0.
 

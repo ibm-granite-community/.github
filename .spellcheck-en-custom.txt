@@ -1,9 +1,12 @@
 Agentic
+agentic
 Annunziata
 CDLA
 Colab
 DCO
+Docling
 GPG
+integrations
 LangChain
 LLM
 md

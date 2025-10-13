@@ -35,7 +35,7 @@ Come check out our cookbooks and our kitchen, and you'll be cooking with Granite
 
 * [Granite Kitchen](https://github.com/ibm-granite-community/granite-kitchen): The example notebooks in the Granite Kitchen cover the initial decisions and setup needed to get started using Granite models.
 * [IBM Granite Time Series Cookbook](https://github.com/ibm-granite-community/granite-timeseries-cookbook): Learn how to leverage  compact pre-trained models for Multivariate Time-Series Forecasting.
-* [Granite retrieval and image research agents](https://github.com/ibm-granite-community/granite-retrieval-agent): This agent leverages the Granite 3.2 language model and Granite 3.2 vision to analyze images.
+* [Granite retrieval and image research agents](https://github.com/ibm-granite-community/granite-retrieval-agent): This agent leverages the Granite 4 language models and Granite 3.2 vision to perform research and analyze images.
 * [Retrieval Augmented Generation (RAG) with LangChain](https://github.com/ibm-granite-community/granite-snack-cookbook/recipes/RAG/RAG_with_Langchain.ipynb)
    <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/RAG/RAG_with_Langchain.ipynb">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>

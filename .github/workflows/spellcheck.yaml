@@ -62,4 +62,4 @@ jobs:
 
       - name: 'Check spelling'
         run: |
-          uvx -- pyspelling --config .spellcheck.yaml --spellchecker aspell
+          uvx -- pyspelling --config .spellcheck.yaml

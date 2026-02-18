@@ -24,6 +24,13 @@ This organization utilizes GitHub's recommended practices for integration branch
 
 Setting up signing of commits is discussed in more detail [below](#signing-commits).
 
+### Contribution Checks
+
+This organization uses several tools to check contributions such as [markdownlint](https://github.com/DavidAnson/markdownlint-cli2), [pyspelling](https://github.com/facelessuser/pyspelling), and/or [nbstripout](https://github.com/kynan/nbstripout).
+[Pre-commit](https://pre-commit.com) hook configuration is provided in the repositories and you should configure your local git repository to automatically run the pre-commit hooks.
+
+Setting up your local git repository to automatically run the pre-commit hooks is discussed in more detail [below](#pre-commit-hooks).
+
 ## The GitHub Organization and Repositories
 
 This repository contains common files, like this one, that apply to all projects in our GitHub organization.
@@ -134,7 +141,14 @@ git config --global commit.gpgsign true
 > 1. Setting `commit.gpgsign` to be `true` means that you don't have to provide the `--gpg-sign` or `-S` flag to `git commit`. Signing will be done automatically.
 > 2. As discussed above for signoff, if you don't want to make these changes globally, omit the `--global` flag in these commands and run them in each repo where they should apply.
 
-### Licenses
+## Pre-commit hooks
+
+First, make sure to [install](https://pre-commit.com/#install) the `pre-commit` tool on your workstation.
+Then you should configure the local git repository to [run](https://pre-commit.com/#usage) the pre-commit hooks whenever you make a commit.
+If a pre-commit hooks identifies any issues, the commit will abort.
+You can then make the necessary changes to resolve the identified issues, stage those changes, and make the commit again.
+
+## Licenses
 
 Unless specifically stated, all projects are distributed under a suitable "open" license. Use the following guidelines:
 

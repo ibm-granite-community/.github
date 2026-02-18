@@ -1,5 +1,5 @@
-Agentic
 agentic
+Agentic
 Annunziata
 CDLA
 Colab
@@ -9,9 +9,12 @@ GPG
 integrations
 LangChain
 LLM
+markdownlint
 md
+nbstripout
 Pingel
 pre
+pyspelling
 README
 repo
 repo's
@@ -21,8 +24,8 @@ signoff
 socio
 SPDX
 Summarization
-Timeseries
 timeseries
+Timeseries
 TODO
 UI
 venv

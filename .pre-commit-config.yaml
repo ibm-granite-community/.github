@@ -3,7 +3,7 @@
 # Run `pre-commit install` to activate pre-commit hooks
 repos:
   - repo: https://github.com/DavidAnson/markdownlint-cli2
-    rev: v0.21.0
+    rev: v0.22.1
     hooks:
     - id: markdownlint-cli2
   - repo: 'https://github.com/facelessuser/pyspelling.git'

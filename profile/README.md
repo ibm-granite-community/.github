@@ -9,7 +9,6 @@ Come check out our cookbooks and our kitchen, and you'll be cooking with Granite
 
 * [Granite Snack Cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook): introductory "Hello, World!" recipes that run quickly on small datasets.
 * [Granite Agent Cookbook](https://github.com/ibm-granite-community/granite-agent-cookbook): showcases the [agentic capabilities](https://github.com/ibm-granite-community/granite-agent-cookbook/blob/main/building_agents.md) of IBM Granite models, in bite-sized instructional notebooks.
-* [Granite Code Cookbook](https://github.com/ibm-granite-community/granite-code-cookbook): showcasing the capabilities of the IBM Granite Code models.
 
 #### Basic Capabilities
 
